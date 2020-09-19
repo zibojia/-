@@ -7,6 +7,8 @@
 
 [Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer](https://arxiv.org/pdf/2007.07986.pdf)
 
+[Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Instance-Aware_Context-Focused_and_Memory-Efficient_Weakly_Supervised_Object_Detection_CVPR_2020_paper.pdf)
+
 ### 2019
 [SALIENCY AWARE: WEAKLY SUPERVISED OBJECT LOCALIZATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682756)
 
