@@ -4,13 +4,14 @@
 [PAPER LIST](https://github.com/CatOneTwo/WSOD)
 
 ### 2020
-[Rethinking the Route Towards Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Rethinking_the_Route_Towards_Weakly_Supervised_Object_Localization_CVPR_2020_paper.pdf)
+[Rethinking the Route Towards Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Rethinking_the_Route_Towards_Weakly_Supervised_Object_Localization_CVPR_2020_paper.pdf)[[CODE](https://github.com/tzzcl/PSOL)]
 
-[Object-Aware Instance Labeling for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kosugi_Object-Aware_Instance_Labeling_for_Weakly_Supervised_Object_Detection_ICCV_2019_paper.pdf)
+[Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer](https://arxiv.org/pdf/2007.07986.pdf)[[CODE](https://github.com/mikuhatsune/wsod_transfer)],[**ImageNet**]
 
-[Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer](https://arxiv.org/pdf/2007.07986.pdf)
+[Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Instance-Aware_Context-Focused_and_Memory-Efficient_Weakly_Supervised_Object_Detection_CVPR_2020_paper.pdf)[[CODE](https://github.com/NVlabs/wetectron)]
 
-[Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Instance-Aware_Context-Focused_and_Memory-Efficient_Weakly_Supervised_Object_Detection_CVPR_2020_paper.pdf)
+* NO CODE
+  * [Object-Aware Instance Labeling for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kosugi_Object-Aware_Instance_Labeling_for_Weakly_Supervised_Object_Detection_ICCV_2019_paper.pdf)
 
 ### 2019
 
@@ -27,4 +28,5 @@
   * [SALIENCY AWARE: WEAKLY SUPERVISED OBJECT LOCALIZATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682756)
   
 ### 2018
-[Weakly Supervised Region Proposal Network and Object Detection](https://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf)
+* NO CODE
+  * [Weakly Supervised Region Proposal Network and Object Detection](https://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf)
