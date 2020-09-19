@@ -5,6 +5,8 @@
 
 [Object-Aware Instance Labeling for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kosugi_Object-Aware_Instance_Labeling_for_Weakly_Supervised_Object_Detection_ICCV_2019_paper.pdf)
 
+[Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer](https://arxiv.org/pdf/2007.07986.pdf)
+
 ### 2019
 [SALIENCY AWARE: WEAKLY SUPERVISED OBJECT LOCALIZATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682756)
 
