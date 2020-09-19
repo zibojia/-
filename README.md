@@ -1,6 +1,6 @@
 ## 弱监督
 
-### PAPER LIST
+### EVALUATION
 [EVALUATION](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choe_Evaluating_Weakly_Supervised_Object_Localization_Methods_Right_CVPR_2020_paper.pdf)
 
 ### 2020
