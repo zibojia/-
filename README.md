@@ -20,5 +20,7 @@
 
 [WSOD2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_WSOD2_Learning_Bottom-Up_and_Top-Down_Objectness_Distillation_for_Weakly-Supervised_Object_ICCV_2019_paper.pdf)
 
+[High-Quality Proposals for Weakly Supervised Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9069411)
+
 ### 2018
 [Weakly Supervised Region Proposal Network and Object Detection](https://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf)
