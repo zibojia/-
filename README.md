@@ -13,19 +13,18 @@
 [Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Instance-Aware_Context-Focused_and_Memory-Efficient_Weakly_Supervised_Object_Detection_CVPR_2020_paper.pdf)
 
 ### 2019
-[SALIENCY AWARE: WEAKLY SUPERVISED OBJECT LOCALIZATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682756)
 
-[Attention-based Dropout Layer for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)
-
-[Towards Precise End-to-end Weakly Supervised Object Detection Network](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Towards_Precise_End-to-End_Weakly_Supervised_Object_Detection_Network_ICCV_2019_paper.pdf)
+[Attention-based Dropout Layer for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)[[CODE](https://github.com/junsukchoe/ADL)]
 
 [C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_C-MIL_Continuation_Multiple_Instance_Learning_for_Weakly_Supervised_Object_Detection_CVPR_2019_paper.pdf)[[CODE](github.com/Winfrand/C-MIL)]
 
-[WSOD2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_WSOD2_Learning_Bottom-Up_and_Top-Down_Objectness_Distillation_for_Weakly-Supervised_Object_ICCV_2019_paper.pdf)
-
-[High-Quality Proposals for Weakly Supervised Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9069411)
-
 [DANet: Divergent Activation for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf)[[CODE]( https://github.com/xuehaolan/DANet)],[**ImageNet**]
 
+* NO CODE：
+  * [High-Quality Proposals for Weakly Supervised Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9069411)
+  * [WSOD2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_WSOD2_Learning_Bottom-Up_and_Top-Down_Objectness_Distillation_for_Weakly-Supervised_Object_ICCV_2019_paper.pdf)
+  * [Towards Precise End-to-end Weakly Supervised Object Detection Network](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Towards_Precise_End-to-End_Weakly_Supervised_Object_Detection_Network_ICCV_2019_paper.pdf)
+  * [SALIENCY AWARE: WEAKLY SUPERVISED OBJECT LOCALIZATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682756)
+  
 ### 2018
 [Weakly Supervised Region Proposal Network and Object Detection](https://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf)
