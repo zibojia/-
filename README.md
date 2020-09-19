@@ -10,7 +10,7 @@
 
 [Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Instance-Aware_Context-Focused_and_Memory-Efficient_Weakly_Supervised_Object_Detection_CVPR_2020_paper.pdf)[[CODE](https://github.com/NVlabs/wetectron)]
 
-* NO CODE
+* NO CODE:
   * [Object-Aware Instance Labeling for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kosugi_Object-Aware_Instance_Labeling_for_Weakly_Supervised_Object_Detection_ICCV_2019_paper.pdf)
 
 ### 2019
@@ -30,5 +30,6 @@
   * [Utilizing the Instability in Weakly Supervised Object Detection](https://arxiv.org/pdf/1906.06023.pdf)
   
 ### 2018
-* NO CODE
+* NO CODE:
   * [Weakly Supervised Region Proposal Network and Object Detection](https://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf)
+  * [Dissimilarity Coefficient based Weakly Supervised Object Detection](https://arxiv.org/pdf/1811.10016.pdf)
