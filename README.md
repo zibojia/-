@@ -19,7 +19,7 @@
 
 [Towards Precise End-to-end Weakly Supervised Object Detection Network](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Towards_Precise_End-to-End_Weakly_Supervised_Object_Detection_Network_ICCV_2019_paper.pdf)
 
-[C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_C-MIL_Continuation_Multiple_Instance_Learning_for_Weakly_Supervised_Object_Detection_CVPR_2019_paper.pdf)
+[C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_C-MIL_Continuation_Multiple_Instance_Learning_for_Weakly_Supervised_Object_Detection_CVPR_2019_paper.pdf)[[CODE](github.com/Winfrand/C-MIL)]
 
 [WSOD2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_WSOD2_Learning_Bottom-Up_and_Top-Down_Objectness_Distillation_for_Weakly-Supervised_Object_ICCV_2019_paper.pdf)
 
