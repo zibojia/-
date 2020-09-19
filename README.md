@@ -16,7 +16,7 @@
 ### 2019
 [Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation](http://www.vie.group/media/pdf/Shen_Cyclic_Guidance_for_Weakly_Supervised_Joint_Detection_and_Segmentation_CVPR_2019_paper.pdf)[[CODE](https://github.com/shenyunhang/WS-JDS)]
 
-[Attention-based Dropout Layer for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)[[CODE](https://github.com/junsukchoe/ADL)][**ImageNet**]
+[Attention-based Dropout Layer for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)[[CODE](https://github.com/junsukchoe/ADL)],[**ImageNet**]
 
 [C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_C-MIL_Continuation_Multiple_Instance_Learning_for_Weakly_Supervised_Object_Detection_CVPR_2019_paper.pdf)[[CODE](github.com/Winfrand/C-MIL)]
 
@@ -30,6 +30,7 @@
   * [Utilizing the Instability in Weakly Supervised Object Detection](https://arxiv.org/pdf/1906.06023.pdf)
 
 ### 2018
+[Self-produced Guidance for Weakly-supervised Object Localization](https://arxiv.org/pdf/1807.08902.pdf)[[CODE](https://github.com/xiaomengyc/SPG)],[**ImageNet**]
 * NO CODE:
   * [Weakly Supervised Region Proposal Network and Object Detection](https://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf)
   * [Dissimilarity Coefficient based Weakly Supervised Object Detection](https://arxiv.org/pdf/1811.10016.pdf)
