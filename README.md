@@ -1,5 +1,8 @@
 ## 弱监督
 
+### PAPER LIST
+[PAPER LIST](https://github.com/CatOneTwo/WSOD)
+
 ### 2020
 [Rethinking the Route Towards Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Rethinking_the_Route_Towards_Weakly_Supervised_Object_Localization_CVPR_2020_paper.pdf)
 
