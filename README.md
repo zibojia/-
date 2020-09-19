@@ -14,6 +14,7 @@
   * [Object-Aware Instance Labeling for Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kosugi_Object-Aware_Instance_Labeling_for_Weakly_Supervised_Object_Detection_ICCV_2019_paper.pdf)
 
 ### 2019
+[Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation](http://www.vie.group/media/pdf/Shen_Cyclic_Guidance_for_Weakly_Supervised_Joint_Detection_and_Segmentation_CVPR_2019_paper.pdf)[[CODE](https://github.com/shenyunhang/WS-JDS)]
 
 [Attention-based Dropout Layer for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)[[CODE](https://github.com/junsukchoe/ADL)]
 
@@ -26,6 +27,7 @@
   * [WSOD2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_WSOD2_Learning_Bottom-Up_and_Top-Down_Objectness_Distillation_for_Weakly-Supervised_Object_ICCV_2019_paper.pdf)
   * [Towards Precise End-to-end Weakly Supervised Object Detection Network](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Towards_Precise_End-to-End_Weakly_Supervised_Object_Detection_Network_ICCV_2019_paper.pdf)
   * [SALIENCY AWARE: WEAKLY SUPERVISED OBJECT LOCALIZATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682756)
+  * [Utilizing the Instability in Weakly Supervised Object Detection](https://arxiv.org/pdf/1906.06023.pdf)
   
 ### 2018
 * NO CODE
